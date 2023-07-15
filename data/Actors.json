@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Caballero_Pelea_B_S_1","characterIndex":0,"characterName":"Caballero_B_S_1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Caballero_B_S_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Arthur","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Elfo_Pelea_B_S_1","characterIndex":0,"characterName":"Elfo_B_S_1","classId":3,"equips":[3,0,0,3,4],"faceIndex":0,"faceName":"Elfo_B_S_1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Summer","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"NoMuerto_Pelea_B_S_1","characterIndex":0,"characterName":"NoMuerto_B_S_1","classId":3,"equips":[3,0,0,3,0],"faceIndex":0,"faceName":"NoMuerto2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ainz","nickname":"","note":"","profile":""}
+]
